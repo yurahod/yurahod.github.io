@@ -1,17 +1,17 @@
 [
     {
-        "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.",
-        "machine": "sqli1",
+        "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.\n",
+        "machine": "Academy: Learning Process",
         "tag": ""
     },
     {
         "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.\n",
-        "machine": "sqli2",
+        "machine": "Academy: Learning Process",
         "tag": ""
     },
     {
         "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.\n",
-        "machine": "sqli3",
+        "machine": "Academy: Learning Process",
         "tag": ""
     }
 ]
