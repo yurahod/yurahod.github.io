@@ -1,16 +1,7 @@
 [
     {
-        "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.\n",
-        "machine": "Academy: Learning Process",
-        "tag": ""
-    },
-    {
-        "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.\n",
-        "machine": "Academy: Learning Process",
-        "tag": ""
-    },
-    {
-        "line": "The systems authorization mechanism does not prevent one user from accessing another users data by modifying the key value that identifies it.\n",
+        "academy": "9",
+        "line": "Free HackTheBox Course on getting into the right mindset to learn.\n",
         "machine": "Academy: Learning Process",
         "tag": ""
     }
